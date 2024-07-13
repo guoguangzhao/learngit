@@ -28,5 +28,7 @@ if __name__ == '__main__':
    ll = (1,2,3)
    print(type(ll))
    print(mylist)
+   print("hello")
+   print(ll)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
