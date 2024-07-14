@@ -26,6 +26,7 @@ if __name__ == '__main__':
    mylist = [1,2,3]
    mylist = mylist[2:0]
    ll = (1,2,3)
+   print("hello")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
